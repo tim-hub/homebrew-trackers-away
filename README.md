@@ -1,9 +1,7 @@
 # Tim-hub Trackers-away
 
-## How do I install these formulae?
-`brew install tim-hub/trackers-away/<formula>`
+## How to
+`brew install tim-hub/trackers-away/trackers-away`
 
-Or `brew tap tim-hub/trackers-away` and then `brew install <formula>`.
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+## [Trackers Away](https://github.com/tim-hub/TrackersAway) - Ads/Trackers Blocker and Hosts file Manager
+[![CodeFactor](https://www.codefactor.io/repository/github/tim-hub/trackersaway/badge)](https://www.codefactor.io/repository/github/tim-hub/trackersaway) [![GitHub All Releases](https://img.shields.io/github/downloads/tim-hub/trackersaway/total)](https://github.com/tim-hub/TrackersAway/releases/latest)
